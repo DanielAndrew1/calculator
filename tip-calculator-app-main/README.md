@@ -113,7 +113,7 @@ I want to keep improving my JavaScript skills before branching out to a framewor
 
 ## Author
 
-- Website - [Add your name here](https://www.realdma.tech)
+- Website - [realdma.tech](https://www.realdma.tech)
 - Frontend Mentor - [@DanielAndrew1](https://www.frontendmentor.io/profile/DanielAndrew1)
 - Twitter - [@Daniel Andrew](https://www.twitter.com/danny21769);
 - Instagram - [@dxniel_xndrew](https://www.instagram.com/dxniel_xndrew);
