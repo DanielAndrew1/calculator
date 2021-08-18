@@ -214,6 +214,9 @@ div .new-line {
   flex-direction: row;
   justify-content: space-between;
 }
+.calculation .tip-amount div, .calculation .total-per-person div {
+  font-size: 12px;
+}
 
 .calculation label {
   position: relative;
