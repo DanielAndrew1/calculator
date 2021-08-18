@@ -1,3 +1,6 @@
+Site at [SPLITTER](https://danielandrew1.github.io/tip-calculator/)
+
+
 # Frontend Mentor - Tip calculator app solution
 
 This is a solution to the [Tip calculator app challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/tip-calculator-app-ugJNGbJUX). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
@@ -26,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [SPLITTER](https://your-live-site-url.com)
+- Live Site URL: [SPLITTER](https://danielandrew1.github.io/tip-calculator/)
 
 ## My process
 
@@ -113,7 +116,7 @@ I want to keep improving my JavaScript skills before branching out to a framewor
 
 ## Author
 
-- Website - [Add your name here](https://www.realdma.tech)
+- Website - [realdma.tech](https://www.realdma.tech)
 - Frontend Mentor - [@DanielAndrew1](https://www.frontendmentor.io/profile/DanielAndrew1)
 - Twitter - [@Daniel Andrew](https://www.twitter.com/danny21769);
 - Instagram - [@dxniel_xndrew](https://www.instagram.com/dxniel_xndrew);
