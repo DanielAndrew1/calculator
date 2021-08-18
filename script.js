@@ -47,6 +47,9 @@ tipAmount50.addEventListener("click", fiftyPercent);
 tipAmountCustom.addEventListener("click", customAmount);
 customInputBtn.addEventListener("click", customPercent);
 
+peopleAmount.addEventListener("click", () => {                        // Number of People Keydown
+    peopleAmount.value = '';
+});
 
 peopleAmount.addEventListener("keydown", () => {                        // Number of People Keydown
     if (peopleAmountLabel.hasAttribute("id", "people-amount-zero")) {
