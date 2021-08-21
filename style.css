@@ -225,11 +225,11 @@ div .new-line {
 .calculation label::before {
   content: "";
   position: absolute;
+  background-image: url("images/icon-dollar-2.svg");
+  width: 19px;
   left: -3px;
-  top: -3px;
-  bottom: 4px;
-  width: 15px;
-  background-image: url("images/icon-dollar.svg");
+  top: -12px;
+  bottom: -1px;
   background-size: cover;
 }
 
