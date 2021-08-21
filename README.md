@@ -1,4 +1,4 @@
-Site at [SPLITTER](https://danielandrew1.github.io/tip-calculator/)
+Live Site at [https://danielandrew1.github.io/tip-calculator/](https://danielandrew1.github.io/tip-calculator/)
 
 
 # Frontend Mentor - Tip calculator app solution
