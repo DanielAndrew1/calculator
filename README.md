@@ -1,4 +1,4 @@
-Live Site at [https://danielandrew1.github.io/tip-calculator/](https://danielandrew1.github.io/tip-calculator/)
+Live Site at [https://dxnielXndrew.github.io/tip-calculator/](https://dxnielXndrew.github.io/tip-calculator/)
 
 
 # Frontend Mentor - Tip calculator app solution
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [SPLITTER](https://danielandrew1.github.io/tip-calculator/)
+- Live Site URL: [SPLITTER](https://dxnielXndrew.github.io/tip-calculator/)
 
 ## My process
 
@@ -116,7 +116,8 @@ I want to keep improving my JavaScript skills before branching out to a framewor
 
 ## Author
 
-- Website - [realdma.tech](https://www.realdma.tech)
-- Frontend Mentor - [@DanielAndrew1](https://www.frontendmentor.io/profile/DanielAndrew1)
-- Twitter - [@Daniel Andrew](https://www.twitter.com/danny21769);
-- Instagram - [@dxniel_xndrew](https://www.instagram.com/dxniel_xndrew);
+- Personal Website - [realdma.tech](https://www.realdma.tech)
+- Frontend Mentor - [Daniel Andrew](https://www.frontendmentor.io/profile/DanielAndrew1)
+- Twitter - [DxnielXndrew](https://www.twitter.com/DxnielXndrew)
+- GitHub - [DxnielXndrew](https://github.com/DxnielXndrew)
+- Instagram - [dxniel_xndrew](https://www.instagram.com/dxniel_xndrew/)
